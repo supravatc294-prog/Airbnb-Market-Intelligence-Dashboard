@@ -85,8 +85,7 @@ Hosts like Michael and David stand out with the highest number of reviews, refle
 
 ![image_alt](https://github.com/gauravgaira/Airbnb-Insights-By-Power-BI-Dashboard/blob/7c05ca192d79c3b5f446db214296b421d3cccfba/AIRBNB%2001.PNG)
 
-
-![image_alt](https://github.com/gauravgaira/Airbnb-Insights-By-Power-BI-Dashboard/blob/7c05ca192d79c3b5f446db214296b421d3cccfba/AIRBNB%2003.PNG)
+![image_alt](https://github.com/gauravgaira/Airbnb-Insights-By-Power-BI-Dashboard/blob/7c05ca192d79c3b5f446db214296b421d3cccfba/AIRBNB%2002.PNG)
 
 
 ![image_alt](https://github.com/gauravgaira/Airbnb-Insights-By-Power-BI-Dashboard/blob/7c05ca192d79c3b5f446db214296b421d3cccfba/AIRBNB%2003.PNG)
